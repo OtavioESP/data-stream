@@ -21,14 +21,14 @@ There are two routes for you to use, both streams data from the server to the cl
 * Python 3.8.x
 
 # Run
-* pip install -r requirements.txt
+* $ pip install -r requirements.txt
 * In consts.py file change the HOST, PORT, FILE and DEBUG for you respective needs
 * HOST should be the host you want to run ex: `192.168.1.0` or `localhost`
 * PORT should be the server port you want to run ex: `8000`, `8001`, `3030`
   Check if there is already something running on the port of preference.
 * DEBUG should be True if you want the server to print the data, else it wont
 * FILE should be the location from the repository ex: './MY_FILE.csv'
-* python main.py
+* $ python main.py
 
 # Now server is running and can be consumed
   
