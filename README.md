@@ -1,10 +1,10 @@
 # STREAM
-A data stream service made using uvicorn and FastApi using python 3.8
+A data stream service made using uvicorn and FastApi with python 3.8
 
 This repository is a training that i made to practice data stream and its initial concepts such as a solution for big data transfers.
 
-The projects consists of a local API with HTTP server, and a client to use the server.
-It can also be consumed by your browser, Postman or anithing that can make a HTTP request on a server.
+The projects consists of a local HTTP API, and a client to use the server.
+It can also be consumed by your browser, Postman or anything that can make a HTTP request.
 
 The server main functionality is to read a large .CSV file that will not be present in the this repo.
 
