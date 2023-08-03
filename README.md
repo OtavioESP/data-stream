@@ -11,10 +11,10 @@ The server main functionality is to read a large .CSV file that will not be pres
 There are two routes for you to use, both streams data from the server to the client.
 
 * - /get-word/<your word here>
-1 -  The server will stream to the client until he finds the first word in the file
+-  The server will stream to the client until he finds the first word in the file
 
 * - /all-words
-2 - The server will stream all the data from the CSV file to client
+- The server will stream all the data from the CSV file to client
 
 
 # Requirements
